@@ -101,6 +101,10 @@ hr {
     float: none;
     margin: 0 auto 0;
 }
+.img {
+    opacity: 0.4;
+    filter: alpha(opacity=40); /*
+}
 
 footer {
     background: #fff;
