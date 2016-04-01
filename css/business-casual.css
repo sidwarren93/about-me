@@ -77,13 +77,11 @@ hr {
     border-color: #999999;
 }
 
-.transbox {
+.box {
     margin-bottom: 20px;
     padding: 30px 15px;
     background: #fcf;
     background: rgba(255, 204, 255);
-    opacity: 0.7;
-    filter: alpha(opacity=60); /* For IE8 and earlier */
 }
 
 .intro-text {
