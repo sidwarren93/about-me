@@ -81,7 +81,7 @@ hr {
     margin-bottom: 20px;
     padding: 30px 15px;
     background: #fcf;
-    background: rgba(255,255,255,0.9);
+    background: rgba(255, 204, 255);
 }
 
 .intro-text {
@@ -162,8 +162,8 @@ footer p {
 
     .navbar-default {
         border: none;
-        background: #fff;
-        background: rgba(255,255,255,0.9);
+        background: #fcf;
+        background: rgb(255,204,255,);
     }
 
     .nav>li>a {
