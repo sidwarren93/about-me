@@ -82,6 +82,8 @@ hr {
     padding: 30px 15px;
     background: #fcf;
     background: rgba(255, 204, 255);
+    background {
+    opacity: 0.4;
 }
 
 .intro-text {
@@ -100,10 +102,6 @@ hr {
 .img-left {
     float: none;
     margin: 0 auto 0;
-}
-.img {
-    opacity: 0.4;
-    filter: alpha(opacity=40); /*
 }
 
 footer {
