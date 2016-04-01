@@ -80,8 +80,8 @@ hr {
 .box {
     margin-bottom: 20px;
     padding: 30px 15px;
-    background: #c06;
-    background: rgb(204, 0, 102);
+    background: #bfbfbf;
+    background: rgb(191, 191, 191);
 }
 
 .intro-text {
